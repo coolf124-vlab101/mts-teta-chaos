@@ -42,7 +42,7 @@
 На НТ на АРМ/Сервере НТ должны быть установлены:
  - openjava11
  - jmeter
-### Схема приложения [Ссылка на развернутое Приложение API из Домашного задания по модулю 2 (работает пока не выключено)](http://9f5f69f6-aa8c-4658-abf1-f6deeb4ebbba.mts-gslb.ru/WeatherForecast)
+### Схема приложения 
 ![схема приложения](https://github.com/coolf124-vlab101/mts-teta-chaos/blob/main/mts-teta-hw-chaos.drawio.png?raw=true)
 ### Список хостов
 ```
